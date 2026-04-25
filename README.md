@@ -1,17 +1,20 @@
 # 🏺 KolkataKraft
-### Authentic West Bengal Handicraft E-Commerce Platform (BSc Data Science MVP)
+### Authentic West Bengal Handicraft E-Commerce Platform
 
-> A hybrid B2C + B2B e-commerce marketplace that connects artisans from West Bengal (Bishnupur, Bankura, Murshidabad) with customers and bulk buyers globally — restoring post-COVID livelihoods through digital commerce.
+> A hybrid B2C + B2B e-commerce marketplace that connects artisans from West Bengal with customers and bulk buyers globally — restoring post-COVID livelihoods through digital commerce.
 
 ---
 
 ## 📸 Project Overview
 
-KolkataKraft is a full-stack MVP e-commerce platform featuring:
-- **B2C**: Customers browse and buy handicrafts (Sarees, Terracotta, Dokra, Kantha Work)
-- **B2B**: Wholesalers and exporters submit bulk enquiries with CSV (EDI-style) exports
-- **Analytics**: Admin dashboard with sales trends, customer segmentation, and Python analysis scripts
-- **3 User Roles**: Customer, Artisan/Seller, Admin
+**KolkataKraft** is a lightweight, high-performance full-stack e-commerce ecosystem built to digitalize West Bengal's traditional handicraft sector. Engineered as a Single Page Application (SPA) with a Node.js and SQLite backend, it bridges the gap between rural artisans and global markets through a specialized dual-channel architecture.
+
+### 🌟 Key Features
+- **Dual-Channel Commerce (B2C & B2B):** A unified storefront where retail customers can purchase individual items via a persistent cart, while wholesale exporters can trigger conditional bulk pricing and submit dedicated enterprise enquiries.
+- **Artisan-Centric Ecosystem:** Creators maintain digital ownership of their heritage crafts (Terracotta, Dokra, Kantha Work, Sarees) through a personalized dashboard, complete with automated cultural attribution on every listing.
+- **Native Business Intelligence:** A custom-built, tracker-free analytics engine providing administrators with real-time cart conversion rates, page view tracking, revenue trends, and EDI-compatible CSV data exports.
+- **Role-Based Access Control (RBAC):** Secure, session-based authentication logically separating the platform into three distinct operational layers: **Customer** (Retail), **Artisan** (Inventory Management), and **Admin** (Analytics & Fulfillment).
+- **"Zero-Config" Architecture:** Built entirely on Node.js, Express, Vanilla JS, and Better-SQLite3 to ensure the application remains lightning-fast with near-zero deployment overhead.
 
 ---
 
