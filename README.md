@@ -210,4 +210,4 @@ This platform was built as a **BSc Data Science academic project** to demonstrat
 
 ---
 
-*Made with ❤️ for West Bengal Artisans | KolkataKraft 2024*
+*Made with ❤️ for West Bengal Artisans | KolkataKraft*
